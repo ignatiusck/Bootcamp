@@ -1,0 +1,15 @@
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day4\tryTuple\obj\Debug\net7.0\tryTuple.csproj.AssemblyReference.cache
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day4\tryTuple\obj\Debug\net7.0\tryTuple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day4\tryTuple\obj\Debug\net7.0\tryTuple.AssemblyInfoInputs.cache
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day4\tryTuple\obj\Debug\net7.0\tryTuple.AssemblyInfo.cs
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day4\tryTuple\obj\Debug\net7.0\tryTuple.csproj.CoreCompileInputs.cache
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day4\tryTuple\bin\Debug\net7.0\tryTuple.exe
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day4\tryTuple\bin\Debug\net7.0\tryTuple.deps.json
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day4\tryTuple\bin\Debug\net7.0\tryTuple.runtimeconfig.json
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day4\tryTuple\bin\Debug\net7.0\tryTuple.dll
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day4\tryTuple\bin\Debug\net7.0\tryTuple.pdb
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day4\tryTuple\obj\Debug\net7.0\tryTuple.dll
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day4\tryTuple\obj\Debug\net7.0\refint\tryTuple.dll
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day4\tryTuple\obj\Debug\net7.0\tryTuple.pdb
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day4\tryTuple\obj\Debug\net7.0\tryTuple.genruntimeconfig.cache
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day4\tryTuple\obj\Debug\net7.0\ref\tryTuple.dll

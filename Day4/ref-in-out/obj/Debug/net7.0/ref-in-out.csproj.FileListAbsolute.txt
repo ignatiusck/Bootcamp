@@ -1,0 +1,15 @@
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day4\ref-in-out\bin\Debug\net7.0\ref-in-out.exe
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day4\ref-in-out\bin\Debug\net7.0\ref-in-out.deps.json
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day4\ref-in-out\bin\Debug\net7.0\ref-in-out.runtimeconfig.json
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day4\ref-in-out\bin\Debug\net7.0\ref-in-out.dll
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day4\ref-in-out\bin\Debug\net7.0\ref-in-out.pdb
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day4\ref-in-out\obj\Debug\net7.0\ref-in-out.csproj.AssemblyReference.cache
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day4\ref-in-out\obj\Debug\net7.0\ref-in-out.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day4\ref-in-out\obj\Debug\net7.0\ref-in-out.AssemblyInfoInputs.cache
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day4\ref-in-out\obj\Debug\net7.0\ref-in-out.AssemblyInfo.cs
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day4\ref-in-out\obj\Debug\net7.0\ref-in-out.csproj.CoreCompileInputs.cache
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day4\ref-in-out\obj\Debug\net7.0\ref-in-out.dll
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day4\ref-in-out\obj\Debug\net7.0\refint\ref-in-out.dll
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day4\ref-in-out\obj\Debug\net7.0\ref-in-out.pdb
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day4\ref-in-out\obj\Debug\net7.0\ref-in-out.genruntimeconfig.cache
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day4\ref-in-out\obj\Debug\net7.0\ref\ref-in-out.dll

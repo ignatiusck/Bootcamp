@@ -1,0 +1,15 @@
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day4\tryDelegate\obj\Debug\net7.0\tryDelegate.csproj.AssemblyReference.cache
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day4\tryDelegate\obj\Debug\net7.0\tryDelegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day4\tryDelegate\obj\Debug\net7.0\tryDelegate.AssemblyInfoInputs.cache
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day4\tryDelegate\obj\Debug\net7.0\tryDelegate.AssemblyInfo.cs
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day4\tryDelegate\obj\Debug\net7.0\tryDelegate.csproj.CoreCompileInputs.cache
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day4\tryDelegate\bin\Debug\net7.0\tryDelegate.exe
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day4\tryDelegate\bin\Debug\net7.0\tryDelegate.deps.json
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day4\tryDelegate\bin\Debug\net7.0\tryDelegate.runtimeconfig.json
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day4\tryDelegate\bin\Debug\net7.0\tryDelegate.dll
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day4\tryDelegate\bin\Debug\net7.0\tryDelegate.pdb
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day4\tryDelegate\obj\Debug\net7.0\tryDelegate.dll
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day4\tryDelegate\obj\Debug\net7.0\refint\tryDelegate.dll
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day4\tryDelegate\obj\Debug\net7.0\tryDelegate.pdb
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day4\tryDelegate\obj\Debug\net7.0\tryDelegate.genruntimeconfig.cache
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day4\tryDelegate\obj\Debug\net7.0\ref\tryDelegate.dll
