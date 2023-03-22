@@ -1,13 +1,28 @@
 ﻿using System;
-class Program 
+class Program
 {
-    static void Main() {
-        calculate adding = add;
-        int result = adding(10, 10);
-        Console.WriteLine(result);
+    static void Main()
+    {
+        Calculator cal = new Calculator();
+
+        calculate adding = cal.add;
+        int result = adding(10, 4);
+
+        calculate multiplying = cal.multiply;
+        int result2 = multiplying(29, 3);
+
+        Console.WriteLine($"{result}, {result2}");
+
     }
 
-    public delegate int calculate (int a, int b);
+    public delegate int calculate(int a, int b);
 
-    public static calculate add = (a, b) => a + b;
+    class Calculator
+    {
+        public calculate add = (a, b) => a + b;
+
+        public calculate multiply = (a, b) => a * b;
+    }
+
 }
+
