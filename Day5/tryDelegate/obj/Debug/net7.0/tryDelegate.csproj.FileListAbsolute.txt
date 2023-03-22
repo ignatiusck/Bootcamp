@@ -1,0 +1,15 @@
+/home/ignatius/Desktop/Learn/Bootcamp/Day5/tryDelegate/bin/Debug/net7.0/tryDelegate
+/home/ignatius/Desktop/Learn/Bootcamp/Day5/tryDelegate/bin/Debug/net7.0/tryDelegate.deps.json
+/home/ignatius/Desktop/Learn/Bootcamp/Day5/tryDelegate/bin/Debug/net7.0/tryDelegate.runtimeconfig.json
+/home/ignatius/Desktop/Learn/Bootcamp/Day5/tryDelegate/bin/Debug/net7.0/tryDelegate.dll
+/home/ignatius/Desktop/Learn/Bootcamp/Day5/tryDelegate/bin/Debug/net7.0/tryDelegate.pdb
+/home/ignatius/Desktop/Learn/Bootcamp/Day5/tryDelegate/obj/Debug/net7.0/tryDelegate.csproj.AssemblyReference.cache
+/home/ignatius/Desktop/Learn/Bootcamp/Day5/tryDelegate/obj/Debug/net7.0/tryDelegate.GeneratedMSBuildEditorConfig.editorconfig
+/home/ignatius/Desktop/Learn/Bootcamp/Day5/tryDelegate/obj/Debug/net7.0/tryDelegate.AssemblyInfoInputs.cache
+/home/ignatius/Desktop/Learn/Bootcamp/Day5/tryDelegate/obj/Debug/net7.0/tryDelegate.AssemblyInfo.cs
+/home/ignatius/Desktop/Learn/Bootcamp/Day5/tryDelegate/obj/Debug/net7.0/tryDelegate.csproj.CoreCompileInputs.cache
+/home/ignatius/Desktop/Learn/Bootcamp/Day5/tryDelegate/obj/Debug/net7.0/tryDelegate.dll
+/home/ignatius/Desktop/Learn/Bootcamp/Day5/tryDelegate/obj/Debug/net7.0/refint/tryDelegate.dll
+/home/ignatius/Desktop/Learn/Bootcamp/Day5/tryDelegate/obj/Debug/net7.0/tryDelegate.pdb
+/home/ignatius/Desktop/Learn/Bootcamp/Day5/tryDelegate/obj/Debug/net7.0/tryDelegate.genruntimeconfig.cache
+/home/ignatius/Desktop/Learn/Bootcamp/Day5/tryDelegate/obj/Debug/net7.0/ref/tryDelegate.dll

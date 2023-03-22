@@ -1,0 +1,15 @@
+/home/ignatius/Desktop/Learn/Bootcamp/Day5/tryDataType/bin/Debug/net7.0/tryDataType
+/home/ignatius/Desktop/Learn/Bootcamp/Day5/tryDataType/bin/Debug/net7.0/tryDataType.deps.json
+/home/ignatius/Desktop/Learn/Bootcamp/Day5/tryDataType/bin/Debug/net7.0/tryDataType.runtimeconfig.json
+/home/ignatius/Desktop/Learn/Bootcamp/Day5/tryDataType/bin/Debug/net7.0/tryDataType.dll
+/home/ignatius/Desktop/Learn/Bootcamp/Day5/tryDataType/bin/Debug/net7.0/tryDataType.pdb
+/home/ignatius/Desktop/Learn/Bootcamp/Day5/tryDataType/obj/Debug/net7.0/tryDataType.csproj.AssemblyReference.cache
+/home/ignatius/Desktop/Learn/Bootcamp/Day5/tryDataType/obj/Debug/net7.0/tryDataType.GeneratedMSBuildEditorConfig.editorconfig
+/home/ignatius/Desktop/Learn/Bootcamp/Day5/tryDataType/obj/Debug/net7.0/tryDataType.AssemblyInfoInputs.cache
+/home/ignatius/Desktop/Learn/Bootcamp/Day5/tryDataType/obj/Debug/net7.0/tryDataType.AssemblyInfo.cs
+/home/ignatius/Desktop/Learn/Bootcamp/Day5/tryDataType/obj/Debug/net7.0/tryDataType.csproj.CoreCompileInputs.cache
+/home/ignatius/Desktop/Learn/Bootcamp/Day5/tryDataType/obj/Debug/net7.0/tryDataType.dll
+/home/ignatius/Desktop/Learn/Bootcamp/Day5/tryDataType/obj/Debug/net7.0/refint/tryDataType.dll
+/home/ignatius/Desktop/Learn/Bootcamp/Day5/tryDataType/obj/Debug/net7.0/tryDataType.pdb
+/home/ignatius/Desktop/Learn/Bootcamp/Day5/tryDataType/obj/Debug/net7.0/tryDataType.genruntimeconfig.cache
+/home/ignatius/Desktop/Learn/Bootcamp/Day5/tryDataType/obj/Debug/net7.0/ref/tryDataType.dll

@@ -1,0 +1,15 @@
+/home/ignatius/Desktop/Learn/Bootcamp/Day5/tryGeneric/bin/Debug/net7.0/tryGeneric
+/home/ignatius/Desktop/Learn/Bootcamp/Day5/tryGeneric/bin/Debug/net7.0/tryGeneric.deps.json
+/home/ignatius/Desktop/Learn/Bootcamp/Day5/tryGeneric/bin/Debug/net7.0/tryGeneric.runtimeconfig.json
+/home/ignatius/Desktop/Learn/Bootcamp/Day5/tryGeneric/bin/Debug/net7.0/tryGeneric.dll
+/home/ignatius/Desktop/Learn/Bootcamp/Day5/tryGeneric/bin/Debug/net7.0/tryGeneric.pdb
+/home/ignatius/Desktop/Learn/Bootcamp/Day5/tryGeneric/obj/Debug/net7.0/tryGeneric.csproj.AssemblyReference.cache
+/home/ignatius/Desktop/Learn/Bootcamp/Day5/tryGeneric/obj/Debug/net7.0/tryGeneric.GeneratedMSBuildEditorConfig.editorconfig
+/home/ignatius/Desktop/Learn/Bootcamp/Day5/tryGeneric/obj/Debug/net7.0/tryGeneric.AssemblyInfoInputs.cache
+/home/ignatius/Desktop/Learn/Bootcamp/Day5/tryGeneric/obj/Debug/net7.0/tryGeneric.AssemblyInfo.cs
+/home/ignatius/Desktop/Learn/Bootcamp/Day5/tryGeneric/obj/Debug/net7.0/tryGeneric.csproj.CoreCompileInputs.cache
+/home/ignatius/Desktop/Learn/Bootcamp/Day5/tryGeneric/obj/Debug/net7.0/tryGeneric.dll
+/home/ignatius/Desktop/Learn/Bootcamp/Day5/tryGeneric/obj/Debug/net7.0/refint/tryGeneric.dll
+/home/ignatius/Desktop/Learn/Bootcamp/Day5/tryGeneric/obj/Debug/net7.0/tryGeneric.pdb
+/home/ignatius/Desktop/Learn/Bootcamp/Day5/tryGeneric/obj/Debug/net7.0/tryGeneric.genruntimeconfig.cache
+/home/ignatius/Desktop/Learn/Bootcamp/Day5/tryGeneric/obj/Debug/net7.0/ref/tryGeneric.dll

@@ -1,0 +1,5 @@
+{
+  "csharp.inlayHints.parameters.enabled": true,
+  "csharp.inlayHints.parameters.forIndexerParameters": true,
+  "omnisharp.enableMsBuildLoadProjectsOnDemand": true
+}
