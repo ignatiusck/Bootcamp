@@ -12,7 +12,6 @@ class Program
         int result2 = multiplying(29, 3);
 
         Console.WriteLine($"{result}, {result2}");
-
     }
 
     public delegate int calculate(int a, int b);

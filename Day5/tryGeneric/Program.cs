@@ -3,48 +3,56 @@ static class Program
 {
     static void Main()
     {
-        var yellow = new Lambo() { name = "yellow", speedCal = 100 };
+        var yellow = new Lambo<string, int>("yellow", 100);
 
-        yellow.specDisplay(yellow);
-
-        (string name, int speedCal) = yellow.specDisplay<string, int>("yellow", 500);
-
+        //Change speed, with tuple
+        (string name, int speedCal) = yellow.specDisplay("yellow", 500);
         Console.WriteLine($"{name} , {speedCal}");
 
-        Console.WriteLine("hello world");
+        //Change name, with create new object
+        var returnClass = new ReturnClass<string, int, Lambo<string, int>>();
+        var red = returnClass.ChangeName(yellow, "red");
+        Console.WriteLine($"{red.name} , {red.speedCal}");
     }
 
-    public abstract class Car
+    public class Car<T1, T2>
     {
-        public string name { get; set; }
-        public int speedCal { get; set; }
+        public T1 name { get; set; }
+        public T2 speedCal { get; set; }
 
-        public Car()
+        public Car(T1 name, T2 speedCal)
         {
-            name = "none";
-            speedCal = 0;
+            this.name = name;
+            this.speedCal = speedCal;
         }
+    }
 
-        public Car(string name, int speedCal)
+    public class Lambo<T1, T2> : Car<T1, T2>
+    {
+        public Lambo(T1 name, T2 speedCal) : base(name, speedCal)
         {
             this.name = name;
             this.speedCal = speedCal;
         }
 
-        public abstract (T1, T2) specDisplay<T1, T2>(T1 name, T2 speedCal);
-        public abstract void specDisplay(Lambo lambo);
-    }
-
-    public class Lambo : Car
-    {
-        public override (T1, T2) specDisplay<T1, T2>(T1 name, T2 speedCal)
+        public (T1, T2) specDisplay(T1 name, T2 speedCal)
         {
             return (name, speedCal);
         }
+    }
 
-        public override void specDisplay(Lambo lambo)
+    public class ReturnClass<T1, T2, T>
+    {
+        public Lambo<string, int>? ChangeName(T lambo, T1 name)
         {
-            Console.WriteLine($"{lambo.name}, {lambo.speedCal}");
+            if (lambo is Lambo<string, int> car && name is string newName)
+            {
+                car.name = newName;
+                return car;
+            }
+            Console.WriteLine($"input invalid.");
+            return default;
         }
     }
 }
+

@@ -1,0 +1,15 @@
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day5\tryGeneric_2\bin\Debug\net7.0\tryGeneric_2.exe
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day5\tryGeneric_2\bin\Debug\net7.0\tryGeneric_2.deps.json
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day5\tryGeneric_2\bin\Debug\net7.0\tryGeneric_2.runtimeconfig.json
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day5\tryGeneric_2\bin\Debug\net7.0\tryGeneric_2.dll
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day5\tryGeneric_2\bin\Debug\net7.0\tryGeneric_2.pdb
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day5\tryGeneric_2\obj\Debug\net7.0\tryGeneric_2.csproj.AssemblyReference.cache
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day5\tryGeneric_2\obj\Debug\net7.0\tryGeneric_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day5\tryGeneric_2\obj\Debug\net7.0\tryGeneric_2.AssemblyInfoInputs.cache
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day5\tryGeneric_2\obj\Debug\net7.0\tryGeneric_2.AssemblyInfo.cs
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day5\tryGeneric_2\obj\Debug\net7.0\tryGeneric_2.csproj.CoreCompileInputs.cache
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day5\tryGeneric_2\obj\Debug\net7.0\tryGeneric_2.dll
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day5\tryGeneric_2\obj\Debug\net7.0\refint\tryGeneric_2.dll
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day5\tryGeneric_2\obj\Debug\net7.0\tryGeneric_2.pdb
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day5\tryGeneric_2\obj\Debug\net7.0\tryGeneric_2.genruntimeconfig.cache
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day5\tryGeneric_2\obj\Debug\net7.0\ref\tryGeneric_2.dll
