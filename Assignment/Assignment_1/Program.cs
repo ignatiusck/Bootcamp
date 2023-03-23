@@ -82,13 +82,13 @@ class Program
     {
         private int capacity;
         private int count;
-        private static ArrayList Data;
+        private static List<T> Data;
 
         public InventoryBaseDataType()
         {
             capacity = 5;
             count = 0;
-            Data = new ArrayList();
+            Data = new();
         }
 
         //Add Data
@@ -115,7 +115,7 @@ class Program
         }
 
         //Get Data
-        public ArrayList getData()
+        public List<T> getData()
         {
             return Data;
         }

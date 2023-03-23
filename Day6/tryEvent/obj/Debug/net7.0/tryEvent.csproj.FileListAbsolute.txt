@@ -1,0 +1,15 @@
+/home/ignatius/Desktop/Learn/Bootcamp/Day6/tryEvent/bin/Debug/net7.0/tryEvent
+/home/ignatius/Desktop/Learn/Bootcamp/Day6/tryEvent/bin/Debug/net7.0/tryEvent.deps.json
+/home/ignatius/Desktop/Learn/Bootcamp/Day6/tryEvent/bin/Debug/net7.0/tryEvent.runtimeconfig.json
+/home/ignatius/Desktop/Learn/Bootcamp/Day6/tryEvent/bin/Debug/net7.0/tryEvent.dll
+/home/ignatius/Desktop/Learn/Bootcamp/Day6/tryEvent/bin/Debug/net7.0/tryEvent.pdb
+/home/ignatius/Desktop/Learn/Bootcamp/Day6/tryEvent/obj/Debug/net7.0/tryEvent.csproj.AssemblyReference.cache
+/home/ignatius/Desktop/Learn/Bootcamp/Day6/tryEvent/obj/Debug/net7.0/tryEvent.GeneratedMSBuildEditorConfig.editorconfig
+/home/ignatius/Desktop/Learn/Bootcamp/Day6/tryEvent/obj/Debug/net7.0/tryEvent.AssemblyInfoInputs.cache
+/home/ignatius/Desktop/Learn/Bootcamp/Day6/tryEvent/obj/Debug/net7.0/tryEvent.AssemblyInfo.cs
+/home/ignatius/Desktop/Learn/Bootcamp/Day6/tryEvent/obj/Debug/net7.0/tryEvent.csproj.CoreCompileInputs.cache
+/home/ignatius/Desktop/Learn/Bootcamp/Day6/tryEvent/obj/Debug/net7.0/tryEvent.dll
+/home/ignatius/Desktop/Learn/Bootcamp/Day6/tryEvent/obj/Debug/net7.0/refint/tryEvent.dll
+/home/ignatius/Desktop/Learn/Bootcamp/Day6/tryEvent/obj/Debug/net7.0/tryEvent.pdb
+/home/ignatius/Desktop/Learn/Bootcamp/Day6/tryEvent/obj/Debug/net7.0/tryEvent.genruntimeconfig.cache
+/home/ignatius/Desktop/Learn/Bootcamp/Day6/tryEvent/obj/Debug/net7.0/ref/tryEvent.dll
