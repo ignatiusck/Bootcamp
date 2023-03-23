@@ -1,4 +1,5 @@
-﻿namespace Namespace
+﻿using System.Collections;
+namespace Namespace
 {
     static class Program
     {
@@ -9,6 +10,23 @@
 
             red = EditCar.EditDataCar(red, "yellow");
             Console.WriteLine($"{red.name}, {red.speed}");
+
+            int result = adding<int>(10, 5);
+            Console.WriteLine(result);
+
+        }
+
+        public static T? adding<T>(T a, T b)
+        {
+            if (a is int aa && b is int bb)
+            {
+                return (T)(object)(aa + bb);
+            }
+            else
+            {
+                return default;
+            }
+
         }
 
         internal class Car
