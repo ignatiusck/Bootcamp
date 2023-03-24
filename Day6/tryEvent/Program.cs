@@ -7,8 +7,8 @@
 
         cal.Completed += notify.proccesCompletetd;
 
-        cal.add(10, 6);
-        cal.sub(10, 2);
+        // cal.add(10, 6);
+        // cal.sub(10, 2);
 
         cal.MultiplyerProcces();
     }
@@ -19,8 +19,8 @@
 
     class Calculator
     {
-        public myDelegate add = (a, b) => Console.WriteLine($"{a + b}");
-        public myDelegate sub = (a, b) => Console.WriteLine($"{a - b}");
+        // public myDelegate add = (a, b) => Console.WriteLine($"{a + b}");
+        // public myDelegate sub = (a, b) => Console.WriteLine($"{a - b}");
         public event EventHandlerCal Completed;
         public void MultiplyerProcces()
         {

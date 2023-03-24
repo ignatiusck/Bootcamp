@@ -1,30 +1,48 @@
-﻿using System.Collections;
+﻿using Foobarssss;
+using System.Collections;
 class Program
 {
     public static void Main()
     {
-        Inventory inventory = new();
+        //Assignment 2
+        Console.WriteLine($"input a number : ");
+        string? input = Console.ReadLine();
+        int inNum = Convert.ToInt32(input);
 
-        //input data
-        string resultAdd1 = inventory.addData<int>(100);
-        string resultAdd2 = inventory.addData<string>("data");
-        string resultAdd3 = inventory.addData<double>(12.54);
+        (string number, string numFoobar) = Foobars.foobarRun(inNum);
 
-        Console.WriteLine($"{resultAdd1}, {resultAdd2}, {resultAdd3}");
+        Console.WriteLine("");
+        Console.WriteLine("All number : " + number);
 
-        //get data
-        foreach (var item in inventory.getData())
-        {
-            Console.WriteLine(item);
-        }
+        Console.WriteLine("");
+        Console.WriteLine("Foobar : " + numFoobar);
 
-        //remove data
-        string resultRemove = inventory.removeData<int>(100);
-        Console.WriteLine(resultRemove);
-        foreach (var item in inventory.getData())
-        {
-            Console.WriteLine(item);
-        }
+
+        //Assignment 2
+        //Foobars.foobarRun();
+
+        // Inventory inventory = new();
+
+        // //input data
+        // string resultAdd1 = inventory.addData<int>(100);
+        // string resultAdd2 = inventory.addData<string>("data");
+        // string resultAdd3 = inventory.addData<double>(12.54);
+
+        // Console.WriteLine($"{resultAdd1}, {resultAdd2}, {resultAdd3}");
+
+        // //get data
+        // foreach (var item in inventory.getData())
+        // {
+        //     Console.WriteLine(item);
+        // }
+
+        // //remove data
+        // string resultRemove = inventory.removeData<int>(100);
+        // Console.WriteLine(resultRemove);
+        // foreach (var item in inventory.getData())
+        // {
+        //     Console.WriteLine(item);
+        // }
 
     }
 
