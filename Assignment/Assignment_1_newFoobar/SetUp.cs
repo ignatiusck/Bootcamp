@@ -1,28 +1,30 @@
-using SetContainer;
-using System.Collections;
 using static Namespace.Program;
 
 public static class SetUp
 {
-    private static ArrayList container = new();
+    private static Dictionary<int, string> container = new Dictionary<int, string>();
     private static string result = "";
 
     public static void Add(int num, string inString)
     {
-        SetContainers model = new() { inNum = num, inString = inString };
-        container.Add(model);
+        container.Add(num, inString);
+    }
+
+    public static void Remove(int num, string inString)
+    {
+        container.Remove(num, out inString);
     }
 
     public static string GetData(FoobarDelegate check, int inNum)
     {
+        result = "";
         for (int i = 0; i <= inNum; i++)
         {
             string inResult = $"{i}";
             int count = 0;
-            foreach (SetContainers item in container)
+            foreach (KeyValuePair<int, string> item in container)
             {
-                SetContainers setup = (SetContainers)item;
-                string ReturnString = check(setup.inNum, setup.inString, i);
+                string ReturnString = check(item.Key, item.Value, i);
                 if (i == 0)
                 {
                     inResult = "0";
