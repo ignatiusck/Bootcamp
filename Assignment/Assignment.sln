@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment_1", "Assignment_1\Assignment_1.csproj", "{C7C8ED7E-A18D-4A42-ABAA-AE00ECECA01D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment_1_newFoobar", "Assignment_1_newFoobar\Assignment_1_newFoobar.csproj", "{B619A35F-B742-487C-840E-51008C0878EE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{C7C8ED7E-A18D-4A42-ABAA-AE00ECECA01D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C7C8ED7E-A18D-4A42-ABAA-AE00ECECA01D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C7C8ED7E-A18D-4A42-ABAA-AE00ECECA01D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B619A35F-B742-487C-840E-51008C0878EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B619A35F-B742-487C-840E-51008C0878EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B619A35F-B742-487C-840E-51008C0878EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B619A35F-B742-487C-840E-51008C0878EE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

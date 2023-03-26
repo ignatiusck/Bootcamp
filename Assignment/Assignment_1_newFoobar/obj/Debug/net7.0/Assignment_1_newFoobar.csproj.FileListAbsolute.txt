@@ -1,0 +1,15 @@
+/home/ignatius/Desktop/Learn/Bootcamp/Assignment/Assignment_1_newFoobar/bin/Debug/net7.0/Assignment_1_newFoobar
+/home/ignatius/Desktop/Learn/Bootcamp/Assignment/Assignment_1_newFoobar/bin/Debug/net7.0/Assignment_1_newFoobar.deps.json
+/home/ignatius/Desktop/Learn/Bootcamp/Assignment/Assignment_1_newFoobar/bin/Debug/net7.0/Assignment_1_newFoobar.runtimeconfig.json
+/home/ignatius/Desktop/Learn/Bootcamp/Assignment/Assignment_1_newFoobar/bin/Debug/net7.0/Assignment_1_newFoobar.dll
+/home/ignatius/Desktop/Learn/Bootcamp/Assignment/Assignment_1_newFoobar/bin/Debug/net7.0/Assignment_1_newFoobar.pdb
+/home/ignatius/Desktop/Learn/Bootcamp/Assignment/Assignment_1_newFoobar/obj/Debug/net7.0/Assignment_1_newFoobar.csproj.AssemblyReference.cache
+/home/ignatius/Desktop/Learn/Bootcamp/Assignment/Assignment_1_newFoobar/obj/Debug/net7.0/Assignment_1_newFoobar.GeneratedMSBuildEditorConfig.editorconfig
+/home/ignatius/Desktop/Learn/Bootcamp/Assignment/Assignment_1_newFoobar/obj/Debug/net7.0/Assignment_1_newFoobar.AssemblyInfoInputs.cache
+/home/ignatius/Desktop/Learn/Bootcamp/Assignment/Assignment_1_newFoobar/obj/Debug/net7.0/Assignment_1_newFoobar.AssemblyInfo.cs
+/home/ignatius/Desktop/Learn/Bootcamp/Assignment/Assignment_1_newFoobar/obj/Debug/net7.0/Assignment_1_newFoobar.csproj.CoreCompileInputs.cache
+/home/ignatius/Desktop/Learn/Bootcamp/Assignment/Assignment_1_newFoobar/obj/Debug/net7.0/Assignment_1_newFoobar.dll
+/home/ignatius/Desktop/Learn/Bootcamp/Assignment/Assignment_1_newFoobar/obj/Debug/net7.0/refint/Assignment_1_newFoobar.dll
+/home/ignatius/Desktop/Learn/Bootcamp/Assignment/Assignment_1_newFoobar/obj/Debug/net7.0/Assignment_1_newFoobar.pdb
+/home/ignatius/Desktop/Learn/Bootcamp/Assignment/Assignment_1_newFoobar/obj/Debug/net7.0/Assignment_1_newFoobar.genruntimeconfig.cache
+/home/ignatius/Desktop/Learn/Bootcamp/Assignment/Assignment_1_newFoobar/obj/Debug/net7.0/ref/Assignment_1_newFoobar.dll
