@@ -1,0 +1,15 @@
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day7\tryEvent_2\bin\Debug\net7.0\tryEvent_2.exe
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day7\tryEvent_2\bin\Debug\net7.0\tryEvent_2.deps.json
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day7\tryEvent_2\bin\Debug\net7.0\tryEvent_2.runtimeconfig.json
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day7\tryEvent_2\bin\Debug\net7.0\tryEvent_2.dll
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day7\tryEvent_2\bin\Debug\net7.0\tryEvent_2.pdb
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day7\tryEvent_2\obj\Debug\net7.0\tryEvent_2.csproj.AssemblyReference.cache
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day7\tryEvent_2\obj\Debug\net7.0\tryEvent_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day7\tryEvent_2\obj\Debug\net7.0\tryEvent_2.AssemblyInfoInputs.cache
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day7\tryEvent_2\obj\Debug\net7.0\tryEvent_2.AssemblyInfo.cs
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day7\tryEvent_2\obj\Debug\net7.0\tryEvent_2.csproj.CoreCompileInputs.cache
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day7\tryEvent_2\obj\Debug\net7.0\tryEvent_2.dll
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day7\tryEvent_2\obj\Debug\net7.0\refint\tryEvent_2.dll
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day7\tryEvent_2\obj\Debug\net7.0\tryEvent_2.pdb
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day7\tryEvent_2\obj\Debug\net7.0\tryEvent_2.genruntimeconfig.cache
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day7\tryEvent_2\obj\Debug\net7.0\ref\tryEvent_2.dll
