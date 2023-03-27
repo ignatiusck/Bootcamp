@@ -8,7 +8,6 @@
             Console.WriteLine("input a number : ");
             string? input = Console.ReadLine();
             int inNum = Convert.ToInt32(input);
-            Console.WriteLine();
 
             //Add config setup
             SetUp.Add(3, "foo");

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/ignatius/Desktop/Learn/Bootcamp/Assignment/Assignment_1_newFoobar/Assignment_1_newFoobar.csproj": {}
+    "C:\\Users\\FORMULATRIX\\Desktop\\Bootcamp\\Assignment\\Assignment_1_newFoobar\\Assignment_1_newFoobar.csproj": {}
   },
   "projects": {
-    "/home/ignatius/Desktop/Learn/Bootcamp/Assignment/Assignment_1_newFoobar/Assignment_1_newFoobar.csproj": {
+    "C:\\Users\\FORMULATRIX\\Desktop\\Bootcamp\\Assignment\\Assignment_1_newFoobar\\Assignment_1_newFoobar.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/ignatius/Desktop/Learn/Bootcamp/Assignment/Assignment_1_newFoobar/Assignment_1_newFoobar.csproj",
+        "projectUniqueName": "C:\\Users\\FORMULATRIX\\Desktop\\Bootcamp\\Assignment\\Assignment_1_newFoobar\\Assignment_1_newFoobar.csproj",
         "projectName": "Assignment_1_newFoobar",
-        "projectPath": "/home/ignatius/Desktop/Learn/Bootcamp/Assignment/Assignment_1_newFoobar/Assignment_1_newFoobar.csproj",
-        "packagesPath": "/home/ignatius/.nuget/packages/",
-        "outputPath": "/home/ignatius/Desktop/Learn/Bootcamp/Assignment/Assignment_1_newFoobar/obj/",
+        "projectPath": "C:\\Users\\FORMULATRIX\\Desktop\\Bootcamp\\Assignment\\Assignment_1_newFoobar\\Assignment_1_newFoobar.csproj",
+        "packagesPath": "C:\\Users\\FORMULATRIX\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\FORMULATRIX\\Desktop\\Bootcamp\\Assignment\\Assignment_1_newFoobar\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/ignatius/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\FORMULATRIX\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.202/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
