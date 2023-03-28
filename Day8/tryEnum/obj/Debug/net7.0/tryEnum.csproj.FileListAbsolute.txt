@@ -1,0 +1,15 @@
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day8\tryEnum\bin\Debug\net7.0\tryEnum.exe
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day8\tryEnum\bin\Debug\net7.0\tryEnum.deps.json
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day8\tryEnum\bin\Debug\net7.0\tryEnum.runtimeconfig.json
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day8\tryEnum\bin\Debug\net7.0\tryEnum.dll
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day8\tryEnum\bin\Debug\net7.0\tryEnum.pdb
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day8\tryEnum\obj\Debug\net7.0\tryEnum.csproj.AssemblyReference.cache
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day8\tryEnum\obj\Debug\net7.0\tryEnum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day8\tryEnum\obj\Debug\net7.0\tryEnum.AssemblyInfoInputs.cache
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day8\tryEnum\obj\Debug\net7.0\tryEnum.AssemblyInfo.cs
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day8\tryEnum\obj\Debug\net7.0\tryEnum.csproj.CoreCompileInputs.cache
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day8\tryEnum\obj\Debug\net7.0\tryEnum.dll
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day8\tryEnum\obj\Debug\net7.0\refint\tryEnum.dll
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day8\tryEnum\obj\Debug\net7.0\tryEnum.pdb
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day8\tryEnum\obj\Debug\net7.0\tryEnum.genruntimeconfig.cache
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day8\tryEnum\obj\Debug\net7.0\ref\tryEnum.dll

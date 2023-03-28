@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tryExeptionHandling", "tryExeptionHandling\tryExeptionHandling.csproj", "{7E32F376-DEB8-4DED-AE51-92FB2660CE60}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tryOperatorOverloading", "tryOperatorOverloading\tryOperatorOverloading.csproj", "{EC0E4F3B-7355-4ED7-B42F-CC266334F454}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tryEnum", "tryEnum\tryEnum.csproj", "{955192BF-9524-48B7-B064-F90D40456869}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E32F376-DEB8-4DED-AE51-92FB2660CE60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E32F376-DEB8-4DED-AE51-92FB2660CE60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E32F376-DEB8-4DED-AE51-92FB2660CE60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E32F376-DEB8-4DED-AE51-92FB2660CE60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC0E4F3B-7355-4ED7-B42F-CC266334F454}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC0E4F3B-7355-4ED7-B42F-CC266334F454}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC0E4F3B-7355-4ED7-B42F-CC266334F454}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC0E4F3B-7355-4ED7-B42F-CC266334F454}.Release|Any CPU.Build.0 = Release|Any CPU
+		{955192BF-9524-48B7-B064-F90D40456869}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{955192BF-9524-48B7-B064-F90D40456869}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{955192BF-9524-48B7-B064-F90D40456869}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{955192BF-9524-48B7-B064-F90D40456869}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

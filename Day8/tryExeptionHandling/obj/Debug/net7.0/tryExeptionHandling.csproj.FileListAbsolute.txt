@@ -1,0 +1,15 @@
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day8\tryExeptionHandling\bin\Debug\net7.0\tryExeptionHandling.exe
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day8\tryExeptionHandling\bin\Debug\net7.0\tryExeptionHandling.deps.json
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day8\tryExeptionHandling\bin\Debug\net7.0\tryExeptionHandling.runtimeconfig.json
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day8\tryExeptionHandling\bin\Debug\net7.0\tryExeptionHandling.dll
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day8\tryExeptionHandling\bin\Debug\net7.0\tryExeptionHandling.pdb
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day8\tryExeptionHandling\obj\Debug\net7.0\tryExeptionHandling.csproj.AssemblyReference.cache
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day8\tryExeptionHandling\obj\Debug\net7.0\tryExeptionHandling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day8\tryExeptionHandling\obj\Debug\net7.0\tryExeptionHandling.AssemblyInfoInputs.cache
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day8\tryExeptionHandling\obj\Debug\net7.0\tryExeptionHandling.AssemblyInfo.cs
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day8\tryExeptionHandling\obj\Debug\net7.0\tryExeptionHandling.csproj.CoreCompileInputs.cache
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day8\tryExeptionHandling\obj\Debug\net7.0\tryExeptionHandling.dll
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day8\tryExeptionHandling\obj\Debug\net7.0\refint\tryExeptionHandling.dll
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day8\tryExeptionHandling\obj\Debug\net7.0\tryExeptionHandling.pdb
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day8\tryExeptionHandling\obj\Debug\net7.0\tryExeptionHandling.genruntimeconfig.cache
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day8\tryExeptionHandling\obj\Debug\net7.0\ref\tryExeptionHandling.dll

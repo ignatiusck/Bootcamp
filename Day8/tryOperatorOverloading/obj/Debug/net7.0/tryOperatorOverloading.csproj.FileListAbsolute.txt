@@ -1,0 +1,15 @@
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day8\tryOperatorOverloading\bin\Debug\net7.0\tryOperatorOverloading.exe
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day8\tryOperatorOverloading\bin\Debug\net7.0\tryOperatorOverloading.deps.json
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day8\tryOperatorOverloading\bin\Debug\net7.0\tryOperatorOverloading.runtimeconfig.json
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day8\tryOperatorOverloading\bin\Debug\net7.0\tryOperatorOverloading.dll
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day8\tryOperatorOverloading\bin\Debug\net7.0\tryOperatorOverloading.pdb
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day8\tryOperatorOverloading\obj\Debug\net7.0\tryOperatorOverloading.csproj.AssemblyReference.cache
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day8\tryOperatorOverloading\obj\Debug\net7.0\tryOperatorOverloading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day8\tryOperatorOverloading\obj\Debug\net7.0\tryOperatorOverloading.AssemblyInfoInputs.cache
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day8\tryOperatorOverloading\obj\Debug\net7.0\tryOperatorOverloading.AssemblyInfo.cs
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day8\tryOperatorOverloading\obj\Debug\net7.0\tryOperatorOverloading.csproj.CoreCompileInputs.cache
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day8\tryOperatorOverloading\obj\Debug\net7.0\tryOperatorOverloading.dll
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day8\tryOperatorOverloading\obj\Debug\net7.0\refint\tryOperatorOverloading.dll
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day8\tryOperatorOverloading\obj\Debug\net7.0\tryOperatorOverloading.pdb
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day8\tryOperatorOverloading\obj\Debug\net7.0\tryOperatorOverloading.genruntimeconfig.cache
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day8\tryOperatorOverloading\obj\Debug\net7.0\ref\tryOperatorOverloading.dll
