@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\FORMULATRIX\\Desktop\\Bootcamp\\Day7\\tryEvent_3\\tryEvent_3.csproj": {}
+    "/home/ignatius/Desktop/Learn/Bootcamp/Day7/tryEvent_3/tryEvent_3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\FORMULATRIX\\Desktop\\Bootcamp\\Day7\\tryEvent_3\\tryEvent_3.csproj": {
+    "/home/ignatius/Desktop/Learn/Bootcamp/Day7/tryEvent_3/tryEvent_3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\FORMULATRIX\\Desktop\\Bootcamp\\Day7\\tryEvent_3\\tryEvent_3.csproj",
+        "projectUniqueName": "/home/ignatius/Desktop/Learn/Bootcamp/Day7/tryEvent_3/tryEvent_3.csproj",
         "projectName": "tryEvent_3",
-        "projectPath": "C:\\Users\\FORMULATRIX\\Desktop\\Bootcamp\\Day7\\tryEvent_3\\tryEvent_3.csproj",
-        "packagesPath": "C:\\Users\\FORMULATRIX\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\FORMULATRIX\\Desktop\\Bootcamp\\Day7\\tryEvent_3\\obj\\",
+        "projectPath": "/home/ignatius/Desktop/Learn/Bootcamp/Day7/tryEvent_3/tryEvent_3.csproj",
+        "packagesPath": "/home/ignatius/.nuget/packages/",
+        "outputPath": "/home/ignatius/Desktop/Learn/Bootcamp/Day7/tryEvent_3/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\FORMULATRIX\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/home/ignatius/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.202/RuntimeIdentifierGraph.json"
         }
       }
     }
