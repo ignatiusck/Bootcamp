@@ -1,0 +1,15 @@
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day9\tryFrameworkBasic\bin\Debug\net7.0\tryFrameworkBasic.exe
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day9\tryFrameworkBasic\bin\Debug\net7.0\tryFrameworkBasic.deps.json
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day9\tryFrameworkBasic\bin\Debug\net7.0\tryFrameworkBasic.runtimeconfig.json
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day9\tryFrameworkBasic\bin\Debug\net7.0\tryFrameworkBasic.dll
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day9\tryFrameworkBasic\bin\Debug\net7.0\tryFrameworkBasic.pdb
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day9\tryFrameworkBasic\obj\Debug\net7.0\tryFrameworkBasic.csproj.AssemblyReference.cache
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day9\tryFrameworkBasic\obj\Debug\net7.0\tryFrameworkBasic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day9\tryFrameworkBasic\obj\Debug\net7.0\tryFrameworkBasic.AssemblyInfoInputs.cache
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day9\tryFrameworkBasic\obj\Debug\net7.0\tryFrameworkBasic.AssemblyInfo.cs
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day9\tryFrameworkBasic\obj\Debug\net7.0\tryFrameworkBasic.csproj.CoreCompileInputs.cache
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day9\tryFrameworkBasic\obj\Debug\net7.0\tryFrameworkBasic.dll
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day9\tryFrameworkBasic\obj\Debug\net7.0\refint\tryFrameworkBasic.dll
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day9\tryFrameworkBasic\obj\Debug\net7.0\tryFrameworkBasic.pdb
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day9\tryFrameworkBasic\obj\Debug\net7.0\tryFrameworkBasic.genruntimeconfig.cache
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day9\tryFrameworkBasic\obj\Debug\net7.0\ref\tryFrameworkBasic.dll
