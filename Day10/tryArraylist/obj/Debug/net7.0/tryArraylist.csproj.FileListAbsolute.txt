@@ -1,0 +1,15 @@
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day10\tryArraylist\bin\Debug\net7.0\tryArraylist.exe
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day10\tryArraylist\bin\Debug\net7.0\tryArraylist.deps.json
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day10\tryArraylist\bin\Debug\net7.0\tryArraylist.runtimeconfig.json
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day10\tryArraylist\bin\Debug\net7.0\tryArraylist.dll
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day10\tryArraylist\bin\Debug\net7.0\tryArraylist.pdb
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day10\tryArraylist\obj\Debug\net7.0\tryArraylist.csproj.AssemblyReference.cache
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day10\tryArraylist\obj\Debug\net7.0\tryArraylist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day10\tryArraylist\obj\Debug\net7.0\tryArraylist.AssemblyInfoInputs.cache
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day10\tryArraylist\obj\Debug\net7.0\tryArraylist.AssemblyInfo.cs
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day10\tryArraylist\obj\Debug\net7.0\tryArraylist.csproj.CoreCompileInputs.cache
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day10\tryArraylist\obj\Debug\net7.0\tryArraylist.dll
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day10\tryArraylist\obj\Debug\net7.0\refint\tryArraylist.dll
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day10\tryArraylist\obj\Debug\net7.0\tryArraylist.pdb
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day10\tryArraylist\obj\Debug\net7.0\tryArraylist.genruntimeconfig.cache
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day10\tryArraylist\obj\Debug\net7.0\ref\tryArraylist.dll

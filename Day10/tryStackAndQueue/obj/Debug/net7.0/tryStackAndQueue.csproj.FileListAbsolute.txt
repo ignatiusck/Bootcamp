@@ -1,0 +1,15 @@
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day10\tryStackAndQueue\bin\Debug\net7.0\tryStackAndQueue.exe
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day10\tryStackAndQueue\bin\Debug\net7.0\tryStackAndQueue.deps.json
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day10\tryStackAndQueue\bin\Debug\net7.0\tryStackAndQueue.runtimeconfig.json
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day10\tryStackAndQueue\bin\Debug\net7.0\tryStackAndQueue.dll
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day10\tryStackAndQueue\bin\Debug\net7.0\tryStackAndQueue.pdb
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day10\tryStackAndQueue\obj\Debug\net7.0\tryStackAndQueue.csproj.AssemblyReference.cache
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day10\tryStackAndQueue\obj\Debug\net7.0\tryStackAndQueue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day10\tryStackAndQueue\obj\Debug\net7.0\tryStackAndQueue.AssemblyInfoInputs.cache
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day10\tryStackAndQueue\obj\Debug\net7.0\tryStackAndQueue.AssemblyInfo.cs
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day10\tryStackAndQueue\obj\Debug\net7.0\tryStackAndQueue.csproj.CoreCompileInputs.cache
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day10\tryStackAndQueue\obj\Debug\net7.0\tryStackAndQueue.dll
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day10\tryStackAndQueue\obj\Debug\net7.0\refint\tryStackAndQueue.dll
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day10\tryStackAndQueue\obj\Debug\net7.0\tryStackAndQueue.pdb
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day10\tryStackAndQueue\obj\Debug\net7.0\tryStackAndQueue.genruntimeconfig.cache
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day10\tryStackAndQueue\obj\Debug\net7.0\ref\tryStackAndQueue.dll
