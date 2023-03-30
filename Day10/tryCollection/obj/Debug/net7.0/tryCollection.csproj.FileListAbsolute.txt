@@ -1,0 +1,15 @@
+/home/ignatius/Desktop/Learn/Bootcamp/Day10/tryCollection/bin/Debug/net7.0/tryCollection
+/home/ignatius/Desktop/Learn/Bootcamp/Day10/tryCollection/bin/Debug/net7.0/tryCollection.deps.json
+/home/ignatius/Desktop/Learn/Bootcamp/Day10/tryCollection/bin/Debug/net7.0/tryCollection.runtimeconfig.json
+/home/ignatius/Desktop/Learn/Bootcamp/Day10/tryCollection/bin/Debug/net7.0/tryCollection.dll
+/home/ignatius/Desktop/Learn/Bootcamp/Day10/tryCollection/bin/Debug/net7.0/tryCollection.pdb
+/home/ignatius/Desktop/Learn/Bootcamp/Day10/tryCollection/obj/Debug/net7.0/tryCollection.csproj.AssemblyReference.cache
+/home/ignatius/Desktop/Learn/Bootcamp/Day10/tryCollection/obj/Debug/net7.0/tryCollection.GeneratedMSBuildEditorConfig.editorconfig
+/home/ignatius/Desktop/Learn/Bootcamp/Day10/tryCollection/obj/Debug/net7.0/tryCollection.AssemblyInfoInputs.cache
+/home/ignatius/Desktop/Learn/Bootcamp/Day10/tryCollection/obj/Debug/net7.0/tryCollection.AssemblyInfo.cs
+/home/ignatius/Desktop/Learn/Bootcamp/Day10/tryCollection/obj/Debug/net7.0/tryCollection.csproj.CoreCompileInputs.cache
+/home/ignatius/Desktop/Learn/Bootcamp/Day10/tryCollection/obj/Debug/net7.0/tryCollection.dll
+/home/ignatius/Desktop/Learn/Bootcamp/Day10/tryCollection/obj/Debug/net7.0/refint/tryCollection.dll
+/home/ignatius/Desktop/Learn/Bootcamp/Day10/tryCollection/obj/Debug/net7.0/tryCollection.pdb
+/home/ignatius/Desktop/Learn/Bootcamp/Day10/tryCollection/obj/Debug/net7.0/tryCollection.genruntimeconfig.cache
+/home/ignatius/Desktop/Learn/Bootcamp/Day10/tryCollection/obj/Debug/net7.0/ref/tryCollection.dll

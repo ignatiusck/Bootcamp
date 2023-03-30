@@ -73,10 +73,4 @@ class Program
         int numInt = Convert.ToInt32(numstring);
         Console.WriteLine(numInt);
     }
-
-    interface s
-    {
-
-    }
 }
-
