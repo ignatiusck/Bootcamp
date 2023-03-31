@@ -1,0 +1,15 @@
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day11\tryCollections\bin\Debug\net7.0\tryCollections.exe
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day11\tryCollections\bin\Debug\net7.0\tryCollections.deps.json
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day11\tryCollections\bin\Debug\net7.0\tryCollections.runtimeconfig.json
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day11\tryCollections\bin\Debug\net7.0\tryCollections.dll
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day11\tryCollections\bin\Debug\net7.0\tryCollections.pdb
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day11\tryCollections\obj\Debug\net7.0\tryCollections.csproj.AssemblyReference.cache
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day11\tryCollections\obj\Debug\net7.0\tryCollections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day11\tryCollections\obj\Debug\net7.0\tryCollections.AssemblyInfoInputs.cache
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day11\tryCollections\obj\Debug\net7.0\tryCollections.AssemblyInfo.cs
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day11\tryCollections\obj\Debug\net7.0\tryCollections.csproj.CoreCompileInputs.cache
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day11\tryCollections\obj\Debug\net7.0\tryCollections.dll
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day11\tryCollections\obj\Debug\net7.0\refint\tryCollections.dll
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day11\tryCollections\obj\Debug\net7.0\tryCollections.pdb
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day11\tryCollections\obj\Debug\net7.0\tryCollections.genruntimeconfig.cache
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day11\tryCollections\obj\Debug\net7.0\ref\tryCollections.dll
