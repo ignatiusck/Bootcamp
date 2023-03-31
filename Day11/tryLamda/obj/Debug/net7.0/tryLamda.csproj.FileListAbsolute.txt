@@ -1,0 +1,15 @@
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day11\tryLamda\bin\Debug\net7.0\tryLamda.exe
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day11\tryLamda\bin\Debug\net7.0\tryLamda.deps.json
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day11\tryLamda\bin\Debug\net7.0\tryLamda.runtimeconfig.json
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day11\tryLamda\bin\Debug\net7.0\tryLamda.dll
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day11\tryLamda\bin\Debug\net7.0\tryLamda.pdb
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day11\tryLamda\obj\Debug\net7.0\tryLamda.csproj.AssemblyReference.cache
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day11\tryLamda\obj\Debug\net7.0\tryLamda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day11\tryLamda\obj\Debug\net7.0\tryLamda.AssemblyInfoInputs.cache
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day11\tryLamda\obj\Debug\net7.0\tryLamda.AssemblyInfo.cs
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day11\tryLamda\obj\Debug\net7.0\tryLamda.csproj.CoreCompileInputs.cache
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day11\tryLamda\obj\Debug\net7.0\tryLamda.dll
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day11\tryLamda\obj\Debug\net7.0\refint\tryLamda.dll
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day11\tryLamda\obj\Debug\net7.0\tryLamda.pdb
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day11\tryLamda\obj\Debug\net7.0\tryLamda.genruntimeconfig.cache
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day11\tryLamda\obj\Debug\net7.0\ref\tryLamda.dll

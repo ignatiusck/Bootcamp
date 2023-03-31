@@ -1,0 +1,15 @@
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day11\trySortedList\bin\Debug\net7.0\trySortedList.exe
+c:\Users\FORMULATRIX\Desktop\Bootcamp\Day11\trySortedList\bin\Debug\net7.0\trySortedList.deps.json
+c:\Users\FORMULATRIX\Desktop\Bootcamp\Day11\trySortedList\bin\Debug\net7.0\trySortedList.runtimeconfig.json
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day11\trySortedList\bin\Debug\net7.0\trySortedList.dll
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day11\trySortedList\bin\Debug\net7.0\trySortedList.pdb
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day11\trySortedList\obj\Debug\net7.0\trySortedList.csproj.AssemblyReference.cache
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day11\trySortedList\obj\Debug\net7.0\trySortedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day11\trySortedList\obj\Debug\net7.0\trySortedList.AssemblyInfoInputs.cache
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day11\trySortedList\obj\Debug\net7.0\trySortedList.AssemblyInfo.cs
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day11\trySortedList\obj\Debug\net7.0\trySortedList.csproj.CoreCompileInputs.cache
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day11\trySortedList\obj\Debug\net7.0\trySortedList.dll
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day11\trySortedList\obj\Debug\net7.0\refint\trySortedList.dll
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day11\trySortedList\obj\Debug\net7.0\trySortedList.pdb
+c:\Users\FORMULATRIX\Desktop\Bootcamp\Day11\trySortedList\obj\Debug\net7.0\trySortedList.genruntimeconfig.cache
+c:\Users\FORMULATRIX\Desktop\Bootcamp\Day11\trySortedList\obj\Debug\net7.0\ref\trySortedList.dll
