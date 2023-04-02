@@ -1,0 +1,15 @@
+/home/ignatius/Desktop/Learn/Bootcamp/review/tryAttributes/bin/Debug/net7.0/tryAttributes
+/home/ignatius/Desktop/Learn/Bootcamp/review/tryAttributes/bin/Debug/net7.0/tryAttributes.deps.json
+/home/ignatius/Desktop/Learn/Bootcamp/review/tryAttributes/bin/Debug/net7.0/tryAttributes.runtimeconfig.json
+/home/ignatius/Desktop/Learn/Bootcamp/review/tryAttributes/bin/Debug/net7.0/tryAttributes.dll
+/home/ignatius/Desktop/Learn/Bootcamp/review/tryAttributes/bin/Debug/net7.0/tryAttributes.pdb
+/home/ignatius/Desktop/Learn/Bootcamp/review/tryAttributes/obj/Debug/net7.0/tryAttributes.csproj.AssemblyReference.cache
+/home/ignatius/Desktop/Learn/Bootcamp/review/tryAttributes/obj/Debug/net7.0/tryAttributes.GeneratedMSBuildEditorConfig.editorconfig
+/home/ignatius/Desktop/Learn/Bootcamp/review/tryAttributes/obj/Debug/net7.0/tryAttributes.AssemblyInfoInputs.cache
+/home/ignatius/Desktop/Learn/Bootcamp/review/tryAttributes/obj/Debug/net7.0/tryAttributes.AssemblyInfo.cs
+/home/ignatius/Desktop/Learn/Bootcamp/review/tryAttributes/obj/Debug/net7.0/tryAttributes.csproj.CoreCompileInputs.cache
+/home/ignatius/Desktop/Learn/Bootcamp/review/tryAttributes/obj/Debug/net7.0/tryAttributes.dll
+/home/ignatius/Desktop/Learn/Bootcamp/review/tryAttributes/obj/Debug/net7.0/refint/tryAttributes.dll
+/home/ignatius/Desktop/Learn/Bootcamp/review/tryAttributes/obj/Debug/net7.0/tryAttributes.pdb
+/home/ignatius/Desktop/Learn/Bootcamp/review/tryAttributes/obj/Debug/net7.0/tryAttributes.genruntimeconfig.cache
+/home/ignatius/Desktop/Learn/Bootcamp/review/tryAttributes/obj/Debug/net7.0/ref/tryAttributes.dll

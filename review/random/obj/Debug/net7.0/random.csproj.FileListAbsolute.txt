@@ -1,0 +1,15 @@
+/home/ignatius/Desktop/Learn/Bootcamp/review/random/bin/Debug/net7.0/random
+/home/ignatius/Desktop/Learn/Bootcamp/review/random/bin/Debug/net7.0/random.deps.json
+/home/ignatius/Desktop/Learn/Bootcamp/review/random/bin/Debug/net7.0/random.runtimeconfig.json
+/home/ignatius/Desktop/Learn/Bootcamp/review/random/bin/Debug/net7.0/random.dll
+/home/ignatius/Desktop/Learn/Bootcamp/review/random/bin/Debug/net7.0/random.pdb
+/home/ignatius/Desktop/Learn/Bootcamp/review/random/obj/Debug/net7.0/random.csproj.AssemblyReference.cache
+/home/ignatius/Desktop/Learn/Bootcamp/review/random/obj/Debug/net7.0/random.GeneratedMSBuildEditorConfig.editorconfig
+/home/ignatius/Desktop/Learn/Bootcamp/review/random/obj/Debug/net7.0/random.AssemblyInfoInputs.cache
+/home/ignatius/Desktop/Learn/Bootcamp/review/random/obj/Debug/net7.0/random.AssemblyInfo.cs
+/home/ignatius/Desktop/Learn/Bootcamp/review/random/obj/Debug/net7.0/random.csproj.CoreCompileInputs.cache
+/home/ignatius/Desktop/Learn/Bootcamp/review/random/obj/Debug/net7.0/random.dll
+/home/ignatius/Desktop/Learn/Bootcamp/review/random/obj/Debug/net7.0/refint/random.dll
+/home/ignatius/Desktop/Learn/Bootcamp/review/random/obj/Debug/net7.0/random.pdb
+/home/ignatius/Desktop/Learn/Bootcamp/review/random/obj/Debug/net7.0/random.genruntimeconfig.cache
+/home/ignatius/Desktop/Learn/Bootcamp/review/random/obj/Debug/net7.0/ref/random.dll
