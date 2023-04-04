@@ -46,3 +46,21 @@ class Myclass
 
     }
 }
+
+
+class myclass2 : Myclass, Iclass
+{
+    public void getName2()
+    {
+    }
+
+    public void getName3()
+    {
+        throw new NotImplementedException();
+    }
+}
+
+public interface Iclass
+{
+    void getName3();
+}
