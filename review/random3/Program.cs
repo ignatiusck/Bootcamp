@@ -1,4 +1,5 @@
-﻿using System;
+﻿using System.Collections.Generic;
+using System;
 using System.Threading.Tasks;
 
 namespace AsynchronousProgramming
@@ -13,6 +14,8 @@ namespace AsynchronousProgramming
 
             Console.WriteLine("Main Method End");
             Console.ReadLine();
+
+            HashSet<String> hat = new();
         }
 
         public static void SomeMethod()

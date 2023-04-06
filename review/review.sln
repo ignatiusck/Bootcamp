@@ -11,10 +11,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "random2", "random2\random2.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "random3", "random3\random3.csproj", "{639D89F6-B47D-46BF-9E2D-094772EADC22}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "random4", "random4\random4.csproj", "{A8EA6C2C-4A7E-4216-8878-A7542A4F3B5E}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tryChess", "tryChess\tryChess.csproj", "{0B560B84-23F8-4EA4-A21A-4C31BBCBF570}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -40,13 +36,5 @@ Global
 		{639D89F6-B47D-46BF-9E2D-094772EADC22}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{639D89F6-B47D-46BF-9E2D-094772EADC22}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{639D89F6-B47D-46BF-9E2D-094772EADC22}.Release|Any CPU.Build.0 = Release|Any CPU
-		{A8EA6C2C-4A7E-4216-8878-A7542A4F3B5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A8EA6C2C-4A7E-4216-8878-A7542A4F3B5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A8EA6C2C-4A7E-4216-8878-A7542A4F3B5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A8EA6C2C-4A7E-4216-8878-A7542A4F3B5E}.Release|Any CPU.Build.0 = Release|Any CPU
-		{0B560B84-23F8-4EA4-A21A-4C31BBCBF570}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{0B560B84-23F8-4EA4-A21A-4C31BBCBF570}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{0B560B84-23F8-4EA4-A21A-4C31BBCBF570}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{0B560B84-23F8-4EA4-A21A-4C31BBCBF570}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
