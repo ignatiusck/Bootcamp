@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/ignatius/Desktop/Learn/Bootcamp/review/random2/random2.csproj": {}
+    "C:\\Users\\FORMULATRIX\\Desktop\\Bootcamp\\review\\random2\\random2.csproj": {}
   },
   "projects": {
-    "/home/ignatius/Desktop/Learn/Bootcamp/review/random2/random2.csproj": {
+    "C:\\Users\\FORMULATRIX\\Desktop\\Bootcamp\\review\\random2\\random2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/ignatius/Desktop/Learn/Bootcamp/review/random2/random2.csproj",
+        "projectUniqueName": "C:\\Users\\FORMULATRIX\\Desktop\\Bootcamp\\review\\random2\\random2.csproj",
         "projectName": "random2",
-        "projectPath": "/home/ignatius/Desktop/Learn/Bootcamp/review/random2/random2.csproj",
-        "packagesPath": "/home/ignatius/.nuget/packages/",
-        "outputPath": "/home/ignatius/Desktop/Learn/Bootcamp/review/random2/obj/",
+        "projectPath": "C:\\Users\\FORMULATRIX\\Desktop\\Bootcamp\\review\\random2\\random2.csproj",
+        "packagesPath": "C:\\Users\\FORMULATRIX\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\FORMULATRIX\\Desktop\\Bootcamp\\review\\random2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/ignatius/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\FORMULATRIX\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.202/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
