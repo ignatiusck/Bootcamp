@@ -1,0 +1,15 @@
+/home/ignatius/Desktop/Learn/Bootcamp/review/tryChess/bin/Debug/net7.0/tryChess
+/home/ignatius/Desktop/Learn/Bootcamp/review/tryChess/bin/Debug/net7.0/tryChess.deps.json
+/home/ignatius/Desktop/Learn/Bootcamp/review/tryChess/bin/Debug/net7.0/tryChess.runtimeconfig.json
+/home/ignatius/Desktop/Learn/Bootcamp/review/tryChess/bin/Debug/net7.0/tryChess.dll
+/home/ignatius/Desktop/Learn/Bootcamp/review/tryChess/bin/Debug/net7.0/tryChess.pdb
+/home/ignatius/Desktop/Learn/Bootcamp/review/tryChess/obj/Debug/net7.0/tryChess.csproj.AssemblyReference.cache
+/home/ignatius/Desktop/Learn/Bootcamp/review/tryChess/obj/Debug/net7.0/tryChess.GeneratedMSBuildEditorConfig.editorconfig
+/home/ignatius/Desktop/Learn/Bootcamp/review/tryChess/obj/Debug/net7.0/tryChess.AssemblyInfoInputs.cache
+/home/ignatius/Desktop/Learn/Bootcamp/review/tryChess/obj/Debug/net7.0/tryChess.AssemblyInfo.cs
+/home/ignatius/Desktop/Learn/Bootcamp/review/tryChess/obj/Debug/net7.0/tryChess.csproj.CoreCompileInputs.cache
+/home/ignatius/Desktop/Learn/Bootcamp/review/tryChess/obj/Debug/net7.0/tryChess.dll
+/home/ignatius/Desktop/Learn/Bootcamp/review/tryChess/obj/Debug/net7.0/refint/tryChess.dll
+/home/ignatius/Desktop/Learn/Bootcamp/review/tryChess/obj/Debug/net7.0/tryChess.pdb
+/home/ignatius/Desktop/Learn/Bootcamp/review/tryChess/obj/Debug/net7.0/tryChess.genruntimeconfig.cache
+/home/ignatius/Desktop/Learn/Bootcamp/review/tryChess/obj/Debug/net7.0/ref/tryChess.dll
