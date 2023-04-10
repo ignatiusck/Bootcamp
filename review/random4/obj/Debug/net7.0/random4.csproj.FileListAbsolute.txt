@@ -1,0 +1,15 @@
+/home/ignatius/Desktop/Learn/Bootcamp/review/random4/bin/Debug/net7.0/random4
+/home/ignatius/Desktop/Learn/Bootcamp/review/random4/bin/Debug/net7.0/random4.deps.json
+/home/ignatius/Desktop/Learn/Bootcamp/review/random4/bin/Debug/net7.0/random4.runtimeconfig.json
+/home/ignatius/Desktop/Learn/Bootcamp/review/random4/bin/Debug/net7.0/random4.dll
+/home/ignatius/Desktop/Learn/Bootcamp/review/random4/bin/Debug/net7.0/random4.pdb
+/home/ignatius/Desktop/Learn/Bootcamp/review/random4/obj/Debug/net7.0/random4.csproj.AssemblyReference.cache
+/home/ignatius/Desktop/Learn/Bootcamp/review/random4/obj/Debug/net7.0/random4.GeneratedMSBuildEditorConfig.editorconfig
+/home/ignatius/Desktop/Learn/Bootcamp/review/random4/obj/Debug/net7.0/random4.AssemblyInfoInputs.cache
+/home/ignatius/Desktop/Learn/Bootcamp/review/random4/obj/Debug/net7.0/random4.AssemblyInfo.cs
+/home/ignatius/Desktop/Learn/Bootcamp/review/random4/obj/Debug/net7.0/random4.csproj.CoreCompileInputs.cache
+/home/ignatius/Desktop/Learn/Bootcamp/review/random4/obj/Debug/net7.0/random4.dll
+/home/ignatius/Desktop/Learn/Bootcamp/review/random4/obj/Debug/net7.0/refint/random4.dll
+/home/ignatius/Desktop/Learn/Bootcamp/review/random4/obj/Debug/net7.0/random4.pdb
+/home/ignatius/Desktop/Learn/Bootcamp/review/random4/obj/Debug/net7.0/random4.genruntimeconfig.cache
+/home/ignatius/Desktop/Learn/Bootcamp/review/random4/obj/Debug/net7.0/ref/random4.dll
