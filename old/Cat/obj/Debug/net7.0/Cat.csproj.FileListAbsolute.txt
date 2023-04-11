@@ -1,0 +1,15 @@
+C:\Users\FORMULATRIX\Desktop\new bootcamp\Cat\bin\Debug\net7.0\Cat.exe
+C:\Users\FORMULATRIX\Desktop\new bootcamp\Cat\bin\Debug\net7.0\Cat.deps.json
+C:\Users\FORMULATRIX\Desktop\new bootcamp\Cat\bin\Debug\net7.0\Cat.runtimeconfig.json
+C:\Users\FORMULATRIX\Desktop\new bootcamp\Cat\bin\Debug\net7.0\Cat.dll
+C:\Users\FORMULATRIX\Desktop\new bootcamp\Cat\bin\Debug\net7.0\Cat.pdb
+C:\Users\FORMULATRIX\Desktop\new bootcamp\Cat\obj\Debug\net7.0\Cat.csproj.AssemblyReference.cache
+C:\Users\FORMULATRIX\Desktop\new bootcamp\Cat\obj\Debug\net7.0\Cat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FORMULATRIX\Desktop\new bootcamp\Cat\obj\Debug\net7.0\Cat.AssemblyInfoInputs.cache
+C:\Users\FORMULATRIX\Desktop\new bootcamp\Cat\obj\Debug\net7.0\Cat.AssemblyInfo.cs
+C:\Users\FORMULATRIX\Desktop\new bootcamp\Cat\obj\Debug\net7.0\Cat.csproj.CoreCompileInputs.cache
+C:\Users\FORMULATRIX\Desktop\new bootcamp\Cat\obj\Debug\net7.0\Cat.dll
+C:\Users\FORMULATRIX\Desktop\new bootcamp\Cat\obj\Debug\net7.0\refint\Cat.dll
+C:\Users\FORMULATRIX\Desktop\new bootcamp\Cat\obj\Debug\net7.0\Cat.pdb
+C:\Users\FORMULATRIX\Desktop\new bootcamp\Cat\obj\Debug\net7.0\Cat.genruntimeconfig.cache
+C:\Users\FORMULATRIX\Desktop\new bootcamp\Cat\obj\Debug\net7.0\ref\Cat.dll

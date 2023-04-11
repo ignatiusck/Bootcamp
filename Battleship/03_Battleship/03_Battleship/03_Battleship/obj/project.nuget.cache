@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "4Myx1nKCh6ZBZWVo2iJw6g+BGOLBTOr23EAUCqWemA+VYl9rPdW9ukg+oq+eCRQ905RpKnOHi+dEk3R8NF2Spg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\FORMULATRIX\\Desktop\\Bootcamp\\Battleship\\03_Battleship\\03_Battleship\\03_Battleship\\03_Battleship.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\FORMULATRIX\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.3\\microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
+    "C:\\Users\\FORMULATRIX\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net40\\1.0.3\\microsoft.netframework.referenceassemblies.net40.1.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

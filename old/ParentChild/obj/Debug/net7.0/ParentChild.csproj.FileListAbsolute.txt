@@ -1,0 +1,15 @@
+C:\Users\FORMULATRIX\Desktop\new bootcamp\ParentChild\bin\Debug\net7.0\ParentChild.exe
+C:\Users\FORMULATRIX\Desktop\new bootcamp\ParentChild\bin\Debug\net7.0\ParentChild.deps.json
+C:\Users\FORMULATRIX\Desktop\new bootcamp\ParentChild\bin\Debug\net7.0\ParentChild.runtimeconfig.json
+C:\Users\FORMULATRIX\Desktop\new bootcamp\ParentChild\bin\Debug\net7.0\ParentChild.dll
+C:\Users\FORMULATRIX\Desktop\new bootcamp\ParentChild\bin\Debug\net7.0\ParentChild.pdb
+C:\Users\FORMULATRIX\Desktop\new bootcamp\ParentChild\obj\Debug\net7.0\ParentChild.csproj.AssemblyReference.cache
+C:\Users\FORMULATRIX\Desktop\new bootcamp\ParentChild\obj\Debug\net7.0\ParentChild.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FORMULATRIX\Desktop\new bootcamp\ParentChild\obj\Debug\net7.0\ParentChild.AssemblyInfoInputs.cache
+C:\Users\FORMULATRIX\Desktop\new bootcamp\ParentChild\obj\Debug\net7.0\ParentChild.AssemblyInfo.cs
+C:\Users\FORMULATRIX\Desktop\new bootcamp\ParentChild\obj\Debug\net7.0\ParentChild.csproj.CoreCompileInputs.cache
+C:\Users\FORMULATRIX\Desktop\new bootcamp\ParentChild\obj\Debug\net7.0\ParentChild.dll
+C:\Users\FORMULATRIX\Desktop\new bootcamp\ParentChild\obj\Debug\net7.0\refint\ParentChild.dll
+C:\Users\FORMULATRIX\Desktop\new bootcamp\ParentChild\obj\Debug\net7.0\ParentChild.pdb
+C:\Users\FORMULATRIX\Desktop\new bootcamp\ParentChild\obj\Debug\net7.0\ParentChild.genruntimeconfig.cache
+C:\Users\FORMULATRIX\Desktop\new bootcamp\ParentChild\obj\Debug\net7.0\ref\ParentChild.dll
