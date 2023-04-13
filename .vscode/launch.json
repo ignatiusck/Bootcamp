@@ -10,9 +10,9 @@
             "request": "launch",
             "preLaunchTask": "build",
             // If you have changed target frameworks, make sure to update the program path.
-            "program": "${workspaceFolder}/Day17/ConditionalCompilation/bin/Debug/net7.0/ConditionalCompilation.dll",
+            "program": "${workspaceFolder}/Day17/tryExplore/bin/Debug/net7.0/tryExplore.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/Day17/ConditionalCompilation",
+            "cwd": "${workspaceFolder}/Day17/tryExplore",
             // For more information about the 'console' field, see https://aka.ms/VSCode-CS-LaunchJson-Console
             "console": "internalConsole",
             "stopAtEntry": false

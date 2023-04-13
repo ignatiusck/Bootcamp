@@ -1,0 +1,15 @@
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day18\concurrency\bin\Debug\net7.0\concurrency.exe
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day18\concurrency\bin\Debug\net7.0\concurrency.deps.json
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day18\concurrency\bin\Debug\net7.0\concurrency.runtimeconfig.json
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day18\concurrency\bin\Debug\net7.0\concurrency.dll
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day18\concurrency\bin\Debug\net7.0\concurrency.pdb
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day18\concurrency\obj\Debug\net7.0\concurrency.csproj.AssemblyReference.cache
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day18\concurrency\obj\Debug\net7.0\concurrency.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day18\concurrency\obj\Debug\net7.0\concurrency.AssemblyInfoInputs.cache
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day18\concurrency\obj\Debug\net7.0\concurrency.AssemblyInfo.cs
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day18\concurrency\obj\Debug\net7.0\concurrency.csproj.CoreCompileInputs.cache
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day18\concurrency\obj\Debug\net7.0\concurrency.dll
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day18\concurrency\obj\Debug\net7.0\refint\concurrency.dll
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day18\concurrency\obj\Debug\net7.0\concurrency.pdb
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day18\concurrency\obj\Debug\net7.0\concurrency.genruntimeconfig.cache
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day18\concurrency\obj\Debug\net7.0\ref\concurrency.dll

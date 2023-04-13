@@ -1,0 +1,15 @@
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day18\tryThread\bin\Debug\net7.0\tryThread.exe
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day18\tryThread\bin\Debug\net7.0\tryThread.deps.json
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day18\tryThread\bin\Debug\net7.0\tryThread.runtimeconfig.json
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day18\tryThread\bin\Debug\net7.0\tryThread.dll
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day18\tryThread\bin\Debug\net7.0\tryThread.pdb
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day18\tryThread\obj\Debug\net7.0\tryThread.csproj.AssemblyReference.cache
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day18\tryThread\obj\Debug\net7.0\tryThread.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day18\tryThread\obj\Debug\net7.0\tryThread.AssemblyInfoInputs.cache
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day18\tryThread\obj\Debug\net7.0\tryThread.AssemblyInfo.cs
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day18\tryThread\obj\Debug\net7.0\tryThread.csproj.CoreCompileInputs.cache
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day18\tryThread\obj\Debug\net7.0\tryThread.dll
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day18\tryThread\obj\Debug\net7.0\refint\tryThread.dll
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day18\tryThread\obj\Debug\net7.0\tryThread.pdb
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day18\tryThread\obj\Debug\net7.0\tryThread.genruntimeconfig.cache
+C:\Users\FORMULATRIX\Desktop\Bootcamp\Day18\tryThread\obj\Debug\net7.0\ref\tryThread.dll

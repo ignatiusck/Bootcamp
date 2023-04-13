@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tryThread", "tryThread\tryThread.csproj", "{CC1ECCFC-0364-4D6E-AB4D-417AB4F46DC5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tryTask", "tryTask\tryTask.csproj", "{81FD16CE-48FC-45D3-B066-32E0BB5B0AAE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tryAsycAwait", "tryAsycAwait\tryAsycAwait.csproj", "{5272F684-2029-4420-88D8-1C4F468510B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC1ECCFC-0364-4D6E-AB4D-417AB4F46DC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC1ECCFC-0364-4D6E-AB4D-417AB4F46DC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC1ECCFC-0364-4D6E-AB4D-417AB4F46DC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC1ECCFC-0364-4D6E-AB4D-417AB4F46DC5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81FD16CE-48FC-45D3-B066-32E0BB5B0AAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81FD16CE-48FC-45D3-B066-32E0BB5B0AAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81FD16CE-48FC-45D3-B066-32E0BB5B0AAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81FD16CE-48FC-45D3-B066-32E0BB5B0AAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5272F684-2029-4420-88D8-1C4F468510B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5272F684-2029-4420-88D8-1C4F468510B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5272F684-2029-4420-88D8-1C4F468510B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5272F684-2029-4420-88D8-1C4F468510B0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
